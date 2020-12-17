@@ -1,5 +1,5 @@
-# Thunder
-Sistema de Administracion de un Restaurant, Cafeteria, Bar, Pizzeria, etc
+# Luis Adames
+Sistema de Administracion de un Cafeteria
 
 
 ### Version 1.1
